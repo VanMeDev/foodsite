@@ -1,0 +1,22 @@
+{
+  "name": "foodsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanMeDev/foodsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanMeDev/foodsite/issues"
+  },
+  "homepage": "https://github.com/VanMeDev/foodsite#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
